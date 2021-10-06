@@ -1,0 +1,410 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand {
+  padding-left: 71px;
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+/* .menu {
+  height: 24px;
+  width: 524px;
+  padding-left: 240px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+} */
+
+.con {
+  height: 104px;
+  width: 100%;
+  padding-bottom: 0%;
+  background-color: #ffffff;
+  display: flex;
+}
+
+.find {
+  /* height: 24px;
+  width: 85px; */
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Lato;
+  font-size: 14.42px;
+  font-weight: bold;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  /* padding-left: 86px; */
+}
+.buy {
+  /* height: 24px;
+  width: 73px; */
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Lato;
+  font-size: 14.42px;
+  font-weight: bold;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  /* padding-left: 86px; */
+}
+.outdoor {
+  /* height: 24px;
+  width: 57px; */
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Lato;
+  font-size: 14.42px;
+  font-weight: bold;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  /* padding-left: 86px; */
+}
+.indoor {
+  /* height: 24px;
+  width: 44px; */
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Lato;
+  font-size: 14.42px;
+  font-weight: bold;
+  letter-spacing: 0.1px;
+  /* line-height: 24px; */
+  /* padding-left: 86px; */
+}
+.guide {
+  /* height: 24px;
+  width: 39px; */
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Lato;
+  font-size: 14.42px;
+  font-weight: bold;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  /* padding-left: 86px; */
+}
+.vis {
+  /* height: 24px;
+  width: 66px; */
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Lato;
+  font-size: 14.42px;
+  font-weight: bold;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  /* padding-left: 86px; */
+}
+
+.rec {
+  box-sizing: border-box;
+  height: 36px;
+  width: 261px;
+  border: 1px solid #979797;
+  background-color: #ffffff;
+  padding-left: 3095px;
+}
+.search {
+  height: 36px;
+  width: 36px;
+}
+/* btn{
+    padding-
+} */
+
+.container-color {
+  height: 36px;
+  width: 144px;
+  padding-right: 71px;
+}
+
+/* .group {
+  min-height: 100vh;
+  padding-top: 0px;
+  height: 584px;
+  width: 100%;
+} */
+
+.premium {
+  min-height: 100vh;
+  /* padding-top: 0; */
+  height: 656px;
+  width: 100%;
+}
+
+section {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* section:nth-child(1) {
+} */
+.mask {
+  min-height: 100vh;
+  padding-top: 0px;
+  height: 584px;
+  width: 100%;
+  background-image: url("img.jpg");
+
+  /* background: linear-gradient(
+    315deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.01) 33.02%,
+    #000000 100%
+  ); */
+}
+
+.premium-outdoor-pavin {
+  /* height: 100px;   */
+  /* height: 41px;
+  width: 100px; */
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Merriweather;
+  font-size: 32.31px;
+  font-weight: bold;
+  letter-spacing: 0.25px;
+  line-height: 41px;
+  text-align: center;
+
+  margin-top: 72px;
+  /* margin-bottom: 47px; */
+  margin-left: 100px;
+  /* padding-left: 227px; */
+}
+.p-0 {
+  /* margin-top: 160px; */
+  display: flex;
+  align-items: center;
+}
+.p-0 .p-1 {
+  /* margin-top: 160px; */
+  margin-left: 82px;
+  text-align: center;
+  height: 422px;
+  width: 392px;
+}
+.hp-natural-stone-paving {
+  height: 392px;
+  width: 392px;
+}
+.hp-cerapave-porcelain-paving {
+  height: 392px;
+  width: 392px;
+}
+.hp-geo-ceramica-paving {
+  height: 392px;
+  width: 392px;
+}
+.natural-stone-paving {
+  height: 24px;
+  width: 288px;
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Lato;
+  font-size: 16.48px;
+  font-weight: bold;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.premium-indoor-paving {
+  height: 560px;
+  width: 100%;
+  padding-top: 75px;
+}
+.premium-indoor-paving {
+  /* height: 41px;
+  width: 395px; */
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Merriweather;
+  font-size: 32.31px;
+  font-weight: bold;
+  letter-spacing: 0.25px;
+  /* line-height: 41px; */
+  text-align: center;
+  /* margin-top: 72px; */
+  margin-bottom: 72px;
+}
+
+.hp-concrete-paving {
+  /* margin-left: 71px; */
+  height: 288px;
+  width: 288px;
+}
+.hp-brick-paving {
+  height: 288px;
+  width: 288px;
+}
+.hp-tile-paving {
+  height: 288px;
+  width: 288px;
+}
+.hp-gravel-paving {
+  height: 288px;
+  width: 288px;
+}
+
+.s-0 {
+  /* margin-top: 160px; */
+  display: flex;
+  align-items: center;
+}
+.s-0 .s-1 {
+  margin-left: 71px;
+  text-align: center;
+  height: 318px;
+  width: 288px;
+}
+
+.wel {
+  height: 152px;
+  width: 392px;
+  padding-top: 120px;
+  padding-left: 127px;
+}
+
+.buy-online {
+  height: 200px;
+  width: 340px;
+}
+
+.find-sockist {
+  height: 200px;
+  width: 340px;
+}
+.welcome-to-world-of {
+  height: 82px;
+  width: 262px;
+  color: #ffffff;
+  font-family: Merriweather;
+  font-size: 32.31px;
+  font-weight: bold;
+  letter-spacing: 0.25px;
+  line-height: 41px;
+  margin-bottom: 12px;
+}
+.welcome-to {
+  height: 56px;
+  width: 392px;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: 16.69px;
+  letter-spacing: 0.5px;
+  line-height: 28px;
+}
+
+.le-main {
+  height: 600px;
+  width: 1000px;
+  /* margin-left:196px; */
+  float: right;
+  margin-top: 250px;
+}
+
+.le {
+  height: 200px;
+  width: 340px;
+  opacity: 0.6;
+  display: inline-block;
+  background-color: #000000;
+  margin-left: 20px;
+}
+.le2 {
+  height: 155px;
+  width: 276px;
+  padding: 10px 50px 30px 20px;
+}
+.le3 {
+  height: 24px;
+  width: 276px;
+  color: #ffffff;
+  font-family: Merriweather;
+  font-size: 19px;
+  font-weight: bold;
+  letter-spacing: 0.25px;
+  line-height: 24px;
+  margin-bottom: 12px;
+}
+
+.le4 {
+  height: 60px;
+  width: 276px;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: 14.6px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  margin-top: 32px;
+  margin-bottom: 22px;
+}
+
+.bt {
+  height: 36px;
+  width: 155px;
+  background-color: #4caf50;
+  border: none;
+  font-weight: bold;
+  color: white;
+  /* padding: 15px 15px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+.vbar {
+  margin-top: 35px;
+}
+
+.rec {
+  height: 36px;
+  width: 261px;
+}
+.btnn {
+  height: 36px;
+  width: 155px;
+  background-color: #4caf50;
+  border: none;
+  font-weight: bold;
+  color: white;
+  /* padding: 15px 15px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-left: 50px;
+}
+.vrr {
+  /* display: inline-block; */
+  height: 36px;
+  width: 261px;
+  /* float: right; */
+}
+
+/* .nnv {
+  padding-top: 30px;
+  margin-top: 100px;
+} */
+
+.navv {
+  height: 104px;
+  width: 100%;
+  display: flex;
+}
+
+.brd {
+  margin-top: 21px;
+}
+.ot {
+  height: 24px;
+  width: 524px;
+  background-color: #ffffff;
+  margin-top: 31px;
+  margin-left: 50px;
+  color: #ffffff;
+}
+
+.sr {
+  margin-top: 28px;
+}
+
+.btt {
+  margin-top: 28px;
+  float: right;
+}
